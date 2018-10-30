@@ -18,7 +18,7 @@
         "display2Font": "Rubik",
         "display2Size": "2.0",
         "display5Font": "Lato",
-        "display5Size": "1.1",
+        "display5Size": "1.0",
         "display7Font": "Lato",
         "display7Size": "0.9",
         "display4Font": "Rubik",
@@ -51,7 +51,7 @@
         "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 29,
+    "uniqCompNum": 27,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1106,13 +1106,13 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffafa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/bed-436x581.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>Menu \n</b><br>\n<br>■通常価格 \n<br>・全身(背面メイン + α) \n<br>　60分コース 7,000円(税込) \n<br>　75分コース 8,500円(税込) \n<br>・ヘッドトリートメント(約30分) \n<br>　5,000円(税込) \n<br>・ヘッド + 全身 \n<br>　60分コース 11,000円(税込) \n<br>　75分コース 12,000円(税込) \n<br>\n<br>■オープン記念価格 \n<br>・全身(背面メイン + α) \n<br>　60分コース 4,000円(税込) \n<br>　75分コース 5,000円(税込) \n<br>・ヘッドトリートメント(約30分) \n<br>　3,000円(税込) \n<br>・ヘッド + 全身 \n<br>　60分コース 6,000円(税込) \n<br>　75分コース 7,000円(税込)</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffafa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/bed-436x581.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><b>Menu \n</b><br>\n<br>■通常価格 \n<br>・全身(背面メイン + α) \n<br>　60分コース 7,000円(税込) \n<br>　75分コース 8,500円(税込) \n<br>・ヘッドトリートメント(約30分) \n<br>　5,000円(税込) \n<br>・ヘッド + 全身 \n<br>　60分コース 11,000円(税込) \n<br>　75分コース 12,000円(税込) \n<br>\n<br>■オープン記念価格 \n<br>・全身(背面メイン + α) \n<br>　60分コース 4,000円(税込) \n<br>　75分コース 5,000円(税込) \n<br>・ヘッドトリートメント(約30分) \n<br>　3,000円(税込) \n<br>・ヘッド + 全身 \n<br>　60分コース 6,000円(税込) \n<br>　75分コース 7,000円(税込)</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r7YGWJnN4E",
+          "_anchor": "content6-s",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-s"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1634,13 +1634,13 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffafa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/aroma-436x581.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Haru(ハル)はアロマオイルを使用した全身トリートメントのお店です。 \n<br>落ち着いた住宅街の中にあるプライベートサロンです。 \n<br>\n<br>施術前には時間をかけたカウンセリングを行い、今のお客様の状態を聞きながらアロマオイルを選定、調合し一人一人に合ったトリートメントオイルを使用していきます。 \n<br>トリートメントに入る前にもお客様の体の状態を確認しながら体に合わせた施術を行っていきます。 \n<br>\n<br>「Haru(ハル)」という名前にはその名前の通りトリートメントを受けて帰られる時にお客様に春の陽射しのようなあたたかい気持ちになって頂けるようにという思いを込めています。 \n<br>日々の疲れを忘れて自分へのご褒美として、そしてむくみや疲れを癒して、本来の体を取り戻し明日からも元気に過ごしていけるお手伝いをさせて下さい。 \n<br>\n<br>トリートメントを受けたことのない方や、アロマオイルってどんなもの？と気になった方はぜひお気軽にご相談下さい。</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffafa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/aroma-436x581.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br>Haru(ハル)はアロマオイルを使用した全身トリートメントのお店です。 \n<br>落ち着いた住宅街の中にあるプライベートサロンです。 \n<br>\n<br>施術前には時間をかけたカウンセリングを行い、今のお客様の状態を聞きながらアロマオイルを選定、調合し一人一人に合ったトリートメントオイルを使用していきます。 \n<br>トリートメントに入る前にもお客様の体の状態を確認しながら体に合わせた施術を行っていきます。 \n<br>\n<br>「Haru(ハル)」という名前にはその名前の通りトリートメントを受けて帰られる時にお客様に春の陽射しのようなあたたかい気持ちになって頂けるようにという思いを込めています。 \n<br>日々の疲れを忘れて自分へのご褒美として、そしてむくみや疲れを癒して、本来の体を取り戻し明日からも元気に過ごしていけるお手伝いをさせて下さい。 \n<br>\n<br>トリートメントを受けたことのない方や、アロマオイルってどんなもの？と気になった方はぜひお気軽にご相談下さい。</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r7YGB1vHyL",
+          "_anchor": "content6-r",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-r"
+          "_params": {}
         },
         {
           "_styles": {
