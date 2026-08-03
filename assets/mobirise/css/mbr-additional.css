@@ -3440,3 +3440,18 @@ section.lazy-placeholder:after {
 .cid-r6EBlUvGWU .dropdown-item:hover {
   color: #767676 !important;
 }
+
+/* Reservation CTA: two-tier booking buttons */
+.cid-r6EBlUvGWU .navbar-buttons .btn + .btn {
+  margin-left: 0.4rem;
+}
+@media (max-width: 991px) {
+  .cid-r6EBlUvGWU .navbar-buttons .btn {
+    display: block;
+    margin: 0.35rem 0;
+    text-align: center;
+  }
+  .cid-r6EBlUvGWU .navbar-buttons .btn + .btn {
+    margin-left: 0;
+  }
+}
