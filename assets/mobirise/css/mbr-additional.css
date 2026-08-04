@@ -3441,7 +3441,14 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 
-/* Reservation CTA: two-tier booking buttons */
+/* Reservation CTA */
+.cid-r6EBlUvGWU .nav-item .nav-link {
+  white-space: nowrap;
+}
+.cid-r6EBlUvGWU .navbar-buttons .btn {
+  white-space: nowrap;
+  letter-spacing: 0;
+}
 .cid-r6EBlUvGWU .navbar-buttons .btn + .btn {
   margin-left: 0.4rem;
 }
@@ -3454,4 +3461,15 @@ section.lazy-placeholder:after {
   .cid-r6EBlUvGWU .navbar-buttons .btn + .btn {
     margin-left: 0;
   }
+}
+/* Hide Mobirise credit visually (must remain in DOM for Mobirise menu JS) */
+section.display-7:has(a[href*="mobiri.se"]),
+section.display-7:has(a[href*="mobirise.com"]) {
+  position: absolute !important;
+  left: -10000px !important;
+  width: 1px !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
 }
